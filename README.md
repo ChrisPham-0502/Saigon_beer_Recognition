@@ -1,8 +1,9 @@
 # Saigon_beer_Recognition
 This project using YOLOv8 to detect can/bottle in an image and classify into types of Saigon beer: Saigon chill, Saigon special, Saigon gold, Saigon large, Saigon export. 
 
-## Guide to implement
+## Guide to use
 
+Clone the repository to the local space:
 ```sh
 git clone https://github.com/ChrisPham-0502/Saigon_beer_Recognition.git
 ```
