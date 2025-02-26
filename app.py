@@ -3,8 +3,8 @@ import gradio as gr
 from models import SaigonBeer_Recognition
 
 cfg = {"Model": {
-              "classifier": r"\weights\classification\best.pt",
-              "detector": r"\weights\detection\best.pt",
+              "classifier": r".\weights\classification\best.pt",
+              "detector": r".\weights\detection\best.pt",
 }}
 
 sample_images = [
