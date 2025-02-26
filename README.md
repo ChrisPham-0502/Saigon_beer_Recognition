@@ -9,7 +9,7 @@ git clone https://github.com/ChrisPham-0502/Saigon_beer_Recognition.git
 
 Then, install some necessary libraries:
 ```sh
-pip install -r requirements.txt
+!pip install -r requirements.txt
 ```
 
   Finally, run the following code to open GUI:
